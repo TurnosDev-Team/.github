@@ -10,7 +10,7 @@ Hacemos **webs y sistemas para negocios variados**: peluquerías, consultorios, 
 
 ## Cómo trabajamos
 
-- 📋 Todas las tareas están en el [tablero de la organización](https://github.com/orgs/TurnosDev-Team/projects).
+- 📋 Todas las tareas están en el [tablero de la organización](https://github.com/orgs/TurnosDev-Team/projects/1).
 - 📖 Antes de empezar, leé la [guía de trabajo](https://github.com/TurnosDev-Team/.github/blob/main/GUIA.md).
 - 🆕 Para arrancar con un cliente nuevo, seguí el [checklist de proyecto nuevo](https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md).
 

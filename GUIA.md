@@ -5,7 +5,7 @@ Cómo trabajamos en todos los proyectos de la organización. Si algo de esto no 
 ## 1. Tareas y tablero
 
 - **Todo trabajo arranca con un issue.** Si no hay issue, se crea antes de programar (plantillas: Tarea, Bug, Feature).
-- Las tareas viven en el [tablero de la organización](https://github.com/orgs/TurnosDev-Team/projects). Columnas:
+- Las tareas viven en el [tablero de la organización](https://github.com/orgs/TurnosDev-Team/projects/1). Columnas:
 
   | Columna | Significa |
   |---|---|
