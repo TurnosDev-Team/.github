@@ -1,0 +1,24 @@
+name: ✨ Funcionalidad
+description: Algo nuevo que la web tiene que poder hacer
+labels: ["tipo: feature"]
+body:
+  - type: textarea
+    id: historia
+    attributes:
+      label: Para quién y para qué
+      placeholder: "Como cliente de la peluquería quiero elegir peluquero para atenderme con quien prefiero"
+    validations:
+      required: true
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Criterios de aceptación
+      value: |
+        - [ ]
+    validations:
+      required: true
+  - type: textarea
+    id: notas
+    attributes:
+      label: Diseño / notas
+      description: Bocetos, capturas, decisiones del cliente

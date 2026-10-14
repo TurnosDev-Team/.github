@@ -1,0 +1,25 @@
+name: 📋 Tarea
+description: Algo que hay que hacer (configuración, diseño, documentación, reunión...)
+labels: ["tipo: tarea"]
+body:
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué hay que hacer
+      placeholder: Describí la tarea
+    validations:
+      required: true
+  - type: textarea
+    id: terminado
+    attributes:
+      label: Cuándo está terminada
+      description: Lista de cosas que tienen que cumplirse para darla por hecha
+      value: |
+        - [ ]
+    validations:
+      required: true
+  - type: textarea
+    id: notas
+    attributes:
+      label: Notas
+      description: Links, decisiones del cliente, cosas a tener en cuenta
