@@ -9,7 +9,7 @@ Repo de configuración de la organización. Lo que hay acá vale para **todos** 
 - [`NUEVO-PROYECTO.md`](NUEVO-PROYECTO.md): checklist para arrancar con un negocio nuevo
 - [`scripts/nuevo-proyecto.sh`](scripts/nuevo-proyecto.sh): crea un proyecto nuevo completo (repo, etiquetas, etapas y tareas en el tablero)
 - [Discussions](https://github.com/TurnosDev-Team/.github/discussions): ideas de proyectos nuevos y charlas que no son tareas
-- [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE): plantillas de issues (tarea, bug, feature) que aparecen en cualquier repo de la organización
-- [`pull_request_template.md`](pull_request_template.md): plantilla que se carga sola al abrir un PR
+- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE): plantillas de issues (tarea, bug, feature) que aparecen en cualquier repo de la organización
+- [`.github/pull_request_template.md`](.github/pull_request_template.md): plantilla que se carga sola al abrir un PR
 
 Si un repo tiene sus propias plantillas, usa esas en vez de estas.
