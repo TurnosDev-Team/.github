@@ -192,6 +192,12 @@ tarea "$M4" "Backlog" Media "tipo: docs,necesita info del cliente" "Manual de us
 - [ ] Capacitación de 30 min
 - [ ] Acordar cómo nos avisa si algo falla"
 
+tarea "$M4" "Backlog" Media "tipo: docs" "Publicar v1.0.0 y agregar al portfolio" \
+"Cuando el proyecto está estable (REQUISITOS.md completo, en producción y acta de entrega firmada):
+- [ ] Publicar la release \`v1.0.0\` (Releases → Draft a new release). Se abre solo un issue con los pasos del portfolio
+- [ ] Permiso del cliente por escrito para mostrarlo
+- [ ] Agregarlo al [portfolio](https://github.com/$ORG/portfolio#cómo-agregar-un-proyecto)"
+
 # ---------------------------------------------------------------- fin
 paso "Listo"
 cat <<EOF

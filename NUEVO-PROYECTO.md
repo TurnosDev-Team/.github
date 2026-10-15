@@ -25,7 +25,7 @@ El script hace solo:
 - [x] Acceso: automático (todos los miembros de la org tienen escritura en todos los repos)
 - [x] Etiquetas (`tipo:`, `área:`, `prioridad:`, `bloqueado`, `necesita info del cliente`)
 - [x] Etapas: `1 · Relevamiento y diseño`, `2 · MVP`, `3 · Extras`, `4 · Lanzamiento`
-- [x] 15 tareas estándar cargadas en el tablero general, con prioridad y cliente
+- [x] 16 tareas estándar cargadas en el tablero general, con prioridad y cliente
 
 Lo que queda a mano:
 - [ ] Completar la ficha del proyecto en el README (cliente, responsable, links)

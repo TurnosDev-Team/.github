@@ -69,6 +69,19 @@ Para arrancar un proyecto nuevo, ver [NUEVO-PROYECTO.md](NUEVO-PROYECTO.md).
   5. Se mergea con *Squash and merge* y se borra la rama.
 - Antes de pedir revisión: `git pull origin main` y resolvé conflictos en tu rama.
 
+### Versiones (releases)
+
+Cada vez que se publica algo importante en producción, se crea una **release** en GitHub (*Releases → Draft a new release*) con un tag `vMAYOR.MENOR.PARCHE`:
+
+| Versión | Cuándo |
+|---|---|
+| `v0.x.y` | Mientras se desarrolla y el cliente prueba (MVP, versiones de prueba) |
+| **`v1.0.0`** | **Primera versión estable**: pasó [REQUISITOS.md](REQUISITOS.md), está en producción con el dominio del cliente y el cliente firmó el acta de entrega |
+| `v1.1.0` | Funcionalidad nueva |
+| `v1.0.1` | Corrección de errores |
+
+**Cuando se publica `v1.0.0`, el proyecto se agrega al [portfolio](https://github.com/TurnosDev-Team/portfolio)** (con permiso del cliente). El repo abre solo un issue "Agregar al portfolio" con los pasos.
+
 ## 3. Stack por defecto
 
 Usamos lo mismo que en turnos-hospital, así reutilizamos código y conocimiento entre proyectos:
