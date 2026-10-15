@@ -1,12 +1,13 @@
 name: ✨ Funcionalidad
 description: Algo nuevo que la web tiene que poder hacer
 labels: ["tipo: feature"]
+projects: ["TurnosDev-Team/1"]
 body:
   - type: textarea
     id: historia
     attributes:
       label: Para quién y para qué
-      placeholder: "Como cliente de la peluquería quiero elegir peluquero para atenderme con quien prefiero"
+      placeholder: "Como cliente del negocio quiero elegir el día y la hora para reservar sin tener que llamar"
     validations:
       required: true
   - type: textarea

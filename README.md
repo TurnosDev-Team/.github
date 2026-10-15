@@ -7,6 +7,7 @@ Repo de configuración de la organización. Lo que hay acá vale para **todos** 
 - [`REQUISITOS.md`](REQUISITOS.md): lo que no puede faltar en ninguna web (seguridad, panel de admin, SEO, legal, backups)
 - [`HERRAMIENTAS.md`](HERRAMIENTAS.md): lenguajes, herramientas y links importantes
 - [`NUEVO-PROYECTO.md`](NUEVO-PROYECTO.md): checklist para arrancar con un negocio nuevo
+- [`scripts/nuevo-proyecto.sh`](scripts/nuevo-proyecto.sh): crea un proyecto nuevo completo (repo, etiquetas, etapas y tareas en el tablero)
 - [Discussions](https://github.com/TurnosDev-Team/.github/discussions): ideas de proyectos nuevos y charlas que no son tareas
 - [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE): plantillas de issues (tarea, bug, feature) que aparecen en cualquier repo de la organización
 - [`pull_request_template.md`](pull_request_template.md): plantilla que se carga sola al abrir un PR

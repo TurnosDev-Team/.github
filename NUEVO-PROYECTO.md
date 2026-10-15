@@ -11,22 +11,35 @@ Copiá esta lista en un issue nuevo del repo (o seguila de acá) cada vez que ar
 - [ ] Presupuesto y plazos acordados por escrito
 - [ ] Elegir quién del equipo es el contacto con el cliente
 
-## 2. Crear el repo
+## 2. Crear el repo (automático)
 
-- [ ] Nombre: `rubro-o-negocio` en minúscula con guiones (ej. `turnos-peluqueria`, `web-gimnasio-norte`)
-- [ ] Repo **privado** dentro de TurnosDev-Team, con README
-- [ ] Dar acceso de escritura al equipo
-- [ ] Crear etiquetas (`tipo:`, `área:`, `prioridad:`, `bloqueado`, `necesita info del cliente`)
-- [ ] Crear milestones: `1 · Relevamiento y diseño`, `2 · MVP`, `3 · Extras`, `4 · Lanzamiento`
-- [ ] Cargar los issues y sumarlos al tablero de la organización
+Nombre: `rubro-o-negocio` en minúscula con guiones (ej. `web-gimnasio-norte`). Desde Git Bash, con `gh auth login` hecho y este repo clonado:
+
+```bash
+bash scripts/nuevo-proyecto.sh web-gimnasio-norte "Gimnasio Norte" --dry-run   # primero mirá qué va a hacer
+bash scripts/nuevo-proyecto.sh web-gimnasio-norte "Gimnasio Norte"             # después crealo
+```
+
+El script hace solo:
+- [x] Repo **privado** creado desde [`plantilla-proyecto`](https://github.com/TurnosDev-Team/plantilla-proyecto)
+- [x] Acceso de escritura para el equipo
+- [x] Etiquetas (`tipo:`, `área:`, `prioridad:`, `bloqueado`, `necesita info del cliente`)
+- [x] Etapas: `1 · Relevamiento y diseño`, `2 · MVP`, `3 · Extras`, `4 · Lanzamiento`
+- [x] 15 tareas estándar cargadas en el tablero general, con prioridad y cliente
+
+Lo que queda a mano:
+- [ ] Completar la ficha del proyecto en el README (cliente, responsable, links)
 - [ ] Agregar el proyecto a la tabla del [perfil de la organización](profile/README.md)
+- [ ] Cambiar la tarea "Funcionalidad principal: COMPLETAR" por las funcionalidades reales cuando se defina el alcance
+- [ ] Si se suma alguien nuevo al equipo, agregarlo en `EQUIPO=(...)` dentro del script
 
 ## 3. Desarrollo
 
 - [ ] Proyecto base con el stack por defecto (ver [GUIA.md](GUIA.md#3-stack-por-defecto))
 - [ ] README con cómo correrlo, `.env.example` y seeders
 - [ ] Deploy de prueba temprano (aunque esté vacío) para mostrarle avances al cliente
-- [ ] Activar Dependabot en el repo (Settings → Code security)
+- [ ] Anotar decisiones importantes en `docs/DECISIONES.md` (viene en la plantilla)
+- [ ] Tests automáticos y Dependabot ya vienen en la plantilla: revisar que estén en verde
 
 ## 4. Lanzamiento
 

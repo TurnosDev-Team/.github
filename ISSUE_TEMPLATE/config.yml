@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: 📖 Guía de trabajo del equipo
     url: https://github.com/TurnosDev-Team/.github/blob/main/GUIA.md

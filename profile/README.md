@@ -4,9 +4,13 @@ Hacemos **webs y sistemas para negocios variados**: peluquerías, consultorios, 
 
 ## Proyectos
 
-| Proyecto | Negocio | Estado |
-|---|---|---|
-| [turnos-peluqueria](https://github.com/TurnosDev-Team/turnos-peluqueria) | Peluquería: reserva de turnos online | 🚧 En desarrollo |
+| Proyecto | Negocio | Responsable | Estado |
+|---|---|---|---|
+| [turnos-peluqueria](https://github.com/TurnosDev-Team/turnos-peluqueria) | Peluquería: reserva de turnos online | A definir | 🚧 En desarrollo |
+
+Estados: 💡 Idea · 🗣️ Hablando con el cliente · 🚧 En desarrollo · ✅ En producción · 🛠️ Mantenimiento · ⏸️ Pausado
+
+🧩 Todo proyecto nuevo arranca desde [`plantilla-proyecto`](https://github.com/TurnosDev-Team/plantilla-proyecto) con el script de [proyecto nuevo](https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md).
 
 ## 📌 Links importantes
 

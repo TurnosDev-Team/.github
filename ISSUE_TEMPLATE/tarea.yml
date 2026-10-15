@@ -1,6 +1,7 @@
 name: 📋 Tarea
 description: Algo que hay que hacer (configuración, diseño, documentación, reunión...)
 labels: ["tipo: tarea"]
+projects: ["TurnosDev-Team/1"]
 body:
   - type: textarea
     id: que

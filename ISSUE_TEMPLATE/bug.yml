@@ -1,6 +1,7 @@
 name: 🐛 Bug
 description: Algo que no funciona como debería
 labels: ["tipo: bug"]
+projects: ["TurnosDev-Team/1"]
 body:
   - type: textarea
     id: que-pasa

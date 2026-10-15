@@ -17,6 +17,23 @@ Cómo trabajamos en todos los proyectos de la organización. Si algo de esto no 
 
 - **Asignate** el issue cuando lo empezás y movelo a *En progreso*. Nadie toma una tarea asignada a otro sin hablarlo.
 - Cada repo tiene **milestones** (etapas, ej. "1 · Relevamiento y diseño"). Los issues van dentro de una etapa.
+- Los issues se crean **siempre con una plantilla** (Tarea, Funcionalidad o Bug): así entran solos al tablero, en cualquier repo.
+
+### Varios proyectos a la vez
+
+La organización está pensada para tener **muchos clientes en paralelo**:
+
+| Regla | Por qué |
+|---|---|
+| **Un repo por cliente/proyecto** (`rubro-o-negocio`, ej. `web-gimnasio-norte`) | Cada negocio tiene su código, sus issues y sus etapas |
+| **Un solo tablero para todo** (el "Tablero general") | Se ve todo el trabajo del equipo junto; se filtra por repo con `repo:TurnosDev-Team/nombre` o en la vista *Por proyecto* |
+| Campo **Cliente** en el tablero | Para filtrar y agrupar por negocio |
+| Todos los repos nacen de [`plantilla-proyecto`](https://github.com/TurnosDev-Team/plantilla-proyecto) | Misma estructura, README con ficha del proyecto, tests automáticos y Dependabot en todos |
+| Los repos se crean con el script [`scripts/nuevo-proyecto.sh`](scripts/nuevo-proyecto.sh) | Crea repo, acceso, etiquetas, etapas y las tareas estándar en 1 minuto |
+| Cada proyecto tiene **un responsable** (contacto con el cliente) | Anotado en la ficha del README |
+| Lo que se repite en varios proyectos (login, panel admin, botón de WhatsApp...) se pasa a la plantilla | Para no programar lo mismo dos veces |
+
+Para arrancar un proyecto nuevo, ver [NUEVO-PROYECTO.md](NUEVO-PROYECTO.md).
 
 ### Etiquetas
 
