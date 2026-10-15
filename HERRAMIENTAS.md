@@ -31,7 +31,7 @@ Todo lo que usamos y dónde está cada cosa. Si sumamos una herramienta nueva, s
 ### Organización
 | Herramienta | Para qué |
 |---|---|
-| **GitHub Projects** | Tablero de tareas (reemplaza a Jira/Trello) |
+| **GitHub Projects** | Tablero de tareas. **Decisión (15/10/2026): no usamos Jira ni Trello**, todo va en este tablero para no tener dos listas desactualizadas |
 | **GitHub Issues** | Cada tarea, bug o idea concreta |
 | **GitHub Discussions** | Ideas de proyectos nuevos y charlas que no son tareas |
 | **Grupo de WhatsApp** | Avisos rápidos y coordinar. Lo importante se pasa a GitHub |
