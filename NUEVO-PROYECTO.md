@@ -22,7 +22,7 @@ bash scripts/nuevo-proyecto.sh web-gimnasio-norte "Gimnasio Norte"             #
 
 El script hace solo:
 - [x] Repo **privado** creado desde [`plantilla-proyecto`](https://github.com/TurnosDev-Team/plantilla-proyecto)
-- [x] Acceso de escritura para el equipo
+- [x] Acceso: automático (todos los miembros de la org tienen escritura en todos los repos)
 - [x] Etiquetas (`tipo:`, `área:`, `prioridad:`, `bloqueado`, `necesita info del cliente`)
 - [x] Etapas: `1 · Relevamiento y diseño`, `2 · MVP`, `3 · Extras`, `4 · Lanzamiento`
 - [x] 15 tareas estándar cargadas en el tablero general, con prioridad y cliente
@@ -31,7 +31,7 @@ Lo que queda a mano:
 - [ ] Completar la ficha del proyecto en el README (cliente, responsable, links)
 - [ ] Agregar el proyecto a la tabla del [perfil de la organización](profile/README.md)
 - [ ] Cambiar la tarea "Funcionalidad principal: COMPLETAR" por las funcionalidades reales cuando se defina el alcance
-- [ ] Si se suma alguien nuevo al equipo, agregarlo en `EQUIPO=(...)` dentro del script
+- [ ] Si se suma alguien nuevo al equipo, alcanza con invitarlo a la organización
 
 ## 3. Desarrollo
 

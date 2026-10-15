@@ -12,6 +12,8 @@ Todo lo que usamos y dónde está cada cosa. Si sumamos una herramienta nueva, s
 | Lo que no puede faltar (seguridad, panel admin...) | https://github.com/TurnosDev-Team/.github/blob/main/REQUISITOS.md |
 | Checklist de proyecto nuevo | https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md |
 | Ideas de proyectos nuevos | https://github.com/TurnosDev-Team/.github/discussions/categories/ideas |
+| 🔒 Contratos, acuerdo del equipo, clientes (privado) | https://github.com/TurnosDev-Team/interno |
+| Plantilla de proyecto (incluye modelos legales) | https://github.com/TurnosDev-Team/plantilla-proyecto |
 | Repo de la peluquería | https://github.com/TurnosDev-Team/turnos-peluqueria |
 
 ## 💻 Lenguajes
@@ -65,8 +67,16 @@ Todo lo que usamos y dónde está cada cosa. Si sumamos una herramienta nueva, s
 | **UptimeRobot** | Aviso si la web se cae |
 | **MercadoPago** | Cobros online, si el proyecto lo necesita |
 
+### Administración del equipo
+| Herramienta | Para qué |
+|---|---|
+| **Bitwarden** | Gestor de contraseñas compartido (una carpeta por proyecto) |
+| **Google Drive** (carpeta compartida) | Contratos firmados, facturas y documentos de clientes (una subcarpeta por cliente). No van a git |
+| **Repo privado [`interno`](https://github.com/TurnosDev-Team/interno)** | Acuerdo del equipo, modelos de contrato, registro de clientes, precios, minutas |
+
 ## 🔑 Cuentas y accesos
 
-- Cada uno usa **su propia cuenta** en cada herramienta. No compartimos contraseñas por WhatsApp.
+- Cada uno usa **su propia cuenta** en cada herramienta, con **2FA activado**. No compartimos contraseñas por WhatsApp.
 - Las cuentas del cliente (dominio, Google Business, MercadoPago) se crean **a nombre del cliente**; nosotros pedimos acceso como colaboradores.
-- Las claves de producción solo se cargan en Render; si alguien las necesita, se pasan por un canal privado y se cambian si se filtran.
+- Las claves de producción solo se cargan en Render y en Bitwarden; se cambian si se filtran.
+- Reglas completas: [seguridad del equipo](https://github.com/TurnosDev-Team/interno/blob/main/SEGURIDAD-DEL-EQUIPO.md) (repo privado).

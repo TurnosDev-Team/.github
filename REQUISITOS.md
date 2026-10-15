@@ -92,7 +92,11 @@ Lo que el dueño del negocio tiene que poder hacer **solo, sin llamarnos**:
 
 ## ⚖️ 6. Legal y datos personales
 
-- [ ] Página de **privacidad**: qué datos pedimos, para qué, y cómo pedir que se borren (Ley 25.326).
+- [ ] Página de **privacidad** publicada en `/privacidad` (modelo en `docs/legal/POLITICA-DE-PRIVACIDAD.md` de la plantilla) y aprobada por el cliente.
+- [ ] Página de **términos** en `/terminos` (modelo en `docs/legal/TERMINOS-Y-CONDICIONES.md`).
+- [ ] Si vende online: **botón de arrepentimiento** visible (Ley 24.240, Res. 424/2020) y precios finales.
+- [ ] Si maneja datos **sensibles** (salud, menores): campos cifrados, acceso mínimo y revisión legal.
+- [ ] Avisarle al cliente que, como responsable de los datos, evalúe inscribir la base en la AAIP.
 - [ ] Pedir solo los datos necesarios.
 - [ ] Si hay pagos online: términos y condiciones y política de cancelación/reembolso.
 - [ ] El **dominio a nombre del cliente** (no nuestro).

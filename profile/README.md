@@ -7,6 +7,7 @@ Hacemos **webs y sistemas para negocios variados**: peluquerías, consultorios, 
 | Proyecto | Negocio | Responsable | Estado |
 |---|---|---|---|
 | [turnos-peluqueria](https://github.com/TurnosDev-Team/turnos-peluqueria) | Peluquería: reserva de turnos online | A definir | 🚧 En desarrollo |
+| [turnos-hospital](https://github.com/TurnosDev-Team/turnos-hospital) | Hospital Municipal Saverio Galvagni: turnos online accesibles para personas mayores | @laure24gonzalez | 🚧 En desarrollo |
 
 Estados: 💡 Idea · 🗣️ Hablando con el cliente · 🚧 En desarrollo · ✅ En producción · 🛠️ Mantenimiento · ⏸️ Pausado
 
@@ -22,6 +23,7 @@ Estados: 💡 Idea · 🗣️ Hablando con el cliente · 🚧 En desarrollo · �
 | 🛠️ Herramientas y lenguajes | [HERRAMIENTAS.md](https://github.com/TurnosDev-Team/.github/blob/main/HERRAMIENTAS.md) |
 | 🆕 Checklist de proyecto nuevo | [NUEVO-PROYECTO.md](https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md) |
 | 💡 Ideas de proyectos nuevos | [Discussions → Ideas](https://github.com/TurnosDev-Team/.github/discussions/categories/ideas) |
+| 🔒 Contratos, acuerdo del equipo, buenas prácticas (solo miembros) | [interno](https://github.com/TurnosDev-Team/interno) |
 
 ## Cómo trabajamos
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Crea un proyecto nuevo de TurnosDev-Team listo para trabajar:
-#   repo desde la plantilla, acceso del equipo, etiquetas, etapas (milestones)
+#   repo desde la plantilla, etiquetas, etapas (milestones)
 #   y las tareas estándar cargadas en el tablero general.
 #
 # Uso (desde Git Bash, con `gh auth login` hecho):
@@ -14,7 +14,7 @@ set -euo pipefail
 ORG=TurnosDev-Team
 PLANTILLA=$ORG/plantilla-proyecto
 TABLERO=1                              # número del "Tablero general"
-EQUIPO=(tiagopunal jereIglesias)       # se les da permiso de escritura (el dueño de la org ya lo tiene)
+# El acceso no hace falta darlo: todos los miembros de la org tienen escritura en todos los repos.
 
 REPO=${1:-}; CLIENTE=${2:-}; DRY=${3:-}
 if [[ -z "$REPO" || -z "$CLIENTE" ]]; then
@@ -36,11 +36,6 @@ else
   run gh repo create "$R" --private --template "$PLANTILLA" --description "Web para $CLIENTE"
   [[ "$DRY" == "--dry-run" ]] || sleep 5   # GitHub tarda unos segundos en copiar la plantilla
 fi
-
-paso "Dando acceso de escritura al equipo"
-for u in "${EQUIPO[@]}"; do
-  run gh api -X PUT "repos/$R/collaborators/$u" -f permission=push --silent
-done
 
 # ---------------------------------------------------------------- etiquetas
 paso "Etiquetas"
