@@ -13,6 +13,7 @@ Todo lo que usamos y dónde está cada cosa. Si sumamos una herramienta nueva, s
 | Checklist de proyecto nuevo | https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md |
 | Ideas de proyectos nuevos | https://github.com/TurnosDev-Team/.github/discussions/categories/ideas |
 | 🔒 Contratos, acuerdo del equipo, clientes (privado) | https://github.com/TurnosDev-Team/interno |
+| Portfolio (se agrega cada proyecto al publicar v1.0.0) | https://github.com/TurnosDev-Team/portfolio |
 | Plantilla de proyecto (incluye modelos legales) | https://github.com/TurnosDev-Team/plantilla-proyecto |
 | Repo de la peluquería | https://github.com/TurnosDev-Team/turnos-peluqueria |
 

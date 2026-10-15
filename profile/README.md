@@ -22,6 +22,7 @@ Estados: 💡 Idea · 🗣️ Hablando con el cliente · 🚧 En desarrollo · �
 | 🔒 Lo que no puede faltar (seguridad, panel admin, SEO, legal) | [REQUISITOS.md](https://github.com/TurnosDev-Team/.github/blob/main/REQUISITOS.md) |
 | 🛠️ Herramientas y lenguajes | [HERRAMIENTAS.md](https://github.com/TurnosDev-Team/.github/blob/main/HERRAMIENTAS.md) |
 | 🆕 Checklist de proyecto nuevo | [NUEVO-PROYECTO.md](https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md) |
+| 🖼️ Portfolio (proyectos terminados) | [portfolio](https://github.com/TurnosDev-Team/portfolio) |
 | 💡 Ideas de proyectos nuevos | [Discussions → Ideas](https://github.com/TurnosDev-Team/.github/discussions/categories/ideas) |
 | 🔒 Contratos, acuerdo del equipo, buenas prácticas (solo miembros) | [interno](https://github.com/TurnosDev-Team/interno) |
 
