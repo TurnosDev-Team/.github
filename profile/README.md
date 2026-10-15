@@ -8,11 +8,21 @@ Hacemos **webs y sistemas para negocios variados**: peluquerías, consultorios, 
 |---|---|---|
 | [turnos-peluqueria](https://github.com/TurnosDev-Team/turnos-peluqueria) | Peluquería: reserva de turnos online | 🚧 En desarrollo |
 
+## 📌 Links importantes
+
+| | |
+|---|---|
+| 📋 **Tablero de tareas** | https://github.com/orgs/TurnosDev-Team/projects/1 |
+| 📖 Guía de trabajo (tablero, ramas, PRs, stack) | [GUIA.md](https://github.com/TurnosDev-Team/.github/blob/main/GUIA.md) |
+| 🔒 Lo que no puede faltar (seguridad, panel admin, SEO, legal) | [REQUISITOS.md](https://github.com/TurnosDev-Team/.github/blob/main/REQUISITOS.md) |
+| 🛠️ Herramientas y lenguajes | [HERRAMIENTAS.md](https://github.com/TurnosDev-Team/.github/blob/main/HERRAMIENTAS.md) |
+| 🆕 Checklist de proyecto nuevo | [NUEVO-PROYECTO.md](https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md) |
+| 💡 Ideas de proyectos nuevos | [Discussions → Ideas](https://github.com/TurnosDev-Team/.github/discussions/categories/ideas) |
+
 ## Cómo trabajamos
 
-- 📋 Todas las tareas están en el [tablero de la organización](https://github.com/orgs/TurnosDev-Team/projects/1).
-- 📖 Antes de empezar, leé la [guía de trabajo](https://github.com/TurnosDev-Team/.github/blob/main/GUIA.md).
-- 🆕 Para arrancar con un cliente nuevo, seguí el [checklist de proyecto nuevo](https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md).
+- Todo lo importante queda **acá en GitHub**: tareas en el tablero, decisiones en los issues, ideas en Discussions.
+- El grupo de WhatsApp es para avisos rápidos; si algo se decide ahí, se anota en el issue que corresponda.
 
 ## Equipo
 

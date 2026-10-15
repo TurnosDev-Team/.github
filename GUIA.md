@@ -68,6 +68,8 @@ Si un cliente necesita algo distinto (por ejemplo, solo una landing sin backend)
 
 **Los usuarios finales son clientes del negocio, no programadores.** Casi todos van a entrar desde el celular.
 
+> El checklist completo y obligatorio (seguridad, panel de admin, SEO, legal, backups) está en [REQUISITOS.md](REQUISITOS.md). Las herramientas y lenguajes, en [HERRAMIENTAS.md](HERRAMIENTAS.md).
+
 - 📱 **Mobile first:** se diseña primero para celular. Botones grandes, poco texto, pocos pasos.
 - ♿ **Accesibilidad:** buen contraste, letra legible, todo usable con teclado, textos alternativos en imágenes.
 - ⚡ **Rápida:** imágenes optimizadas (WebP, tamaño justo), sin librerías pesadas que no hagan falta.

@@ -26,9 +26,11 @@ Copiá esta lista en un issue nuevo del repo (o seguila de acá) cada vez que ar
 - [ ] Proyecto base con el stack por defecto (ver [GUIA.md](GUIA.md#3-stack-por-defecto))
 - [ ] README con cómo correrlo, `.env.example` y seeders
 - [ ] Deploy de prueba temprano (aunque esté vacío) para mostrarle avances al cliente
+- [ ] Activar Dependabot en el repo (Settings → Code security)
 
 ## 4. Lanzamiento
 
+- [ ] **Pasar completo el checklist de [REQUISITOS.md](REQUISITOS.md)** (seguridad, panel admin, SEO, legal, backups)
 - [ ] Tests de los flujos principales pasando
 - [ ] Revisado en celular (Android y iPhone) y en compu
 - [ ] Dominio configurado y HTTPS
