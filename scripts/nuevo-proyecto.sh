@@ -201,7 +201,7 @@ tarea "$M4" "Backlog" Media "tipo: docs,necesita info del cliente" "Manual de us
 paso "Listo"
 cat <<EOF
 Repo:    https://github.com/$R
-Tareas:  https://github.com/orgs/$ORG/projects/$TABLERO  (vista "Por proyecto")
+Tareas:  https://github.com/orgs/$ORG/projects/$TABLERO  → vista "Por proyecto": https://github.com/orgs/$ORG/projects/$TABLERO/views/3
 
 Falta a mano:
   1. Completar el README del repo (ficha del proyecto).

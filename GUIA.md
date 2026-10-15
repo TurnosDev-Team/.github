@@ -15,6 +15,15 @@ Cómo trabajamos en todos los proyectos de la organización. Si algo de esto no 
   | **En revisión** | Hay un PR abierto esperando revisión |
   | **Hecho** | Mergeado / terminado |
 
+- Vistas del tablero (pestañas arriba):
+
+  | Vista | Para qué |
+  |---|---|
+  | [**Tablero**](https://github.com/orgs/TurnosDev-Team/projects/1/views/2) | Columnas de todo el trabajo, arrastrando tarjetas |
+  | [**Por proyecto**](https://github.com/orgs/TurnosDev-Team/projects/1/views/3) | Tareas agrupadas por repo/cliente |
+  | [**Mis tareas**](https://github.com/orgs/TurnosDev-Team/projects/1/views/4) | Solo lo asignado a vos |
+  | [**Por etapa**](https://github.com/orgs/TurnosDev-Team/projects/1/views/5) | Agrupado por milestone (relevamiento, MVP, extras, lanzamiento) |
+
 - **Asignate** el issue cuando lo empezás y movelo a *En progreso*. Nadie toma una tarea asignada a otro sin hablarlo.
 - Cada repo tiene **milestones** (etapas, ej. "1 · Relevamiento y diseño"). Los issues van dentro de una etapa.
 - Los issues se crean **siempre con una plantilla** (Tarea, Funcionalidad o Bug): así entran solos al tablero, en cualquier repo.

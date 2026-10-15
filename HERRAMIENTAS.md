@@ -7,7 +7,7 @@ Todo lo que usamos y dónde está cada cosa. Si sumamos una herramienta nueva, s
 | Qué | Link |
 |---|---|
 | Organización en GitHub | https://github.com/TurnosDev-Team |
-| **Tablero de tareas** | https://github.com/orgs/TurnosDev-Team/projects/1 |
+| **Tablero de tareas** | https://github.com/orgs/TurnosDev-Team/projects/1/views/2 |
 | Guía de trabajo | https://github.com/TurnosDev-Team/.github/blob/main/GUIA.md |
 | Lo que no puede faltar (seguridad, panel admin...) | https://github.com/TurnosDev-Team/.github/blob/main/REQUISITOS.md |
 | Checklist de proyecto nuevo | https://github.com/TurnosDev-Team/.github/blob/main/NUEVO-PROYECTO.md |

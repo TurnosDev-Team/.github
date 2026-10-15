@@ -16,7 +16,7 @@ Estados: 💡 Idea · 🗣️ Hablando con el cliente · 🚧 En desarrollo · �
 
 | | |
 |---|---|
-| 📋 **Tablero de tareas** | https://github.com/orgs/TurnosDev-Team/projects/1 |
+| 📋 **Tablero de tareas** | https://github.com/orgs/TurnosDev-Team/projects/1/views/2 |
 | 📖 Guía de trabajo (tablero, ramas, PRs, stack) | [GUIA.md](https://github.com/TurnosDev-Team/.github/blob/main/GUIA.md) |
 | 🔒 Lo que no puede faltar (seguridad, panel admin, SEO, legal) | [REQUISITOS.md](https://github.com/TurnosDev-Team/.github/blob/main/REQUISITOS.md) |
 | 🛠️ Herramientas y lenguajes | [HERRAMIENTAS.md](https://github.com/TurnosDev-Team/.github/blob/main/HERRAMIENTAS.md) |
